@@ -1,4 +1,4 @@
-<a href="https:/ alt="google-font" border="0"></a>
+></a>
 <div align="center">
         <img src="IMG-yazeen.jpg" alt="GIF" width="250" height="200"/>
 </p>
