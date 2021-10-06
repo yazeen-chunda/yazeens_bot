@@ -5,7 +5,7 @@
 
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+yazeens_bot+WA+Bot+repo;Created+by+Muhammed+yazeen;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Monuzz_bot+WA+Bot+repo;Created+by+Muhammed+yazeen;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
  </a>
 </p>
@@ -14,11 +14,11 @@
 <a href="#"><img title="yazeen" src="https://img.shields.io/badge/yazeen-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/yazeen-chunda"><img title="Author" src="https://img.shields.io/badge/Author-yazeen-chunda/yazeens_bot?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Anandh-kl35"><img title="Author" src="https://img.shields.io/badge/Author-Anandh-kl35/Monuzz_bot?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/yazeen-chunda">yazeen-chunda</a> to make it public
+Project created by <a href="https://github.com/Anandh-kl35">Anandh-kl35</a> to make it public
     <br>
        | © |
         Reserved |
@@ -34,7 +34,7 @@ Project created by <a href="https://github.com/yazeen-chunda">yazeen-chunda</a> 
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/yazeen-chunda/yazeens_bot.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/Anandh-kl35/Monuzz_bot.git)
      </div>
 <br>
 <br >
@@ -54,8 +54,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/yazeen-chunda/yazeens_bot
-$ cd yazeens_bot
+$ git clone https://github.com/Anandh-kl35/Monuzz_bot
+$ cd Monuzz_bot
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -64,8 +64,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/yazeen-chunda/yazeens_bot
-$ cd yazeens_bot
+$ git clone https://github.com/Anandh-kl35/Monuzz_bot
+$ cd Monuzz_bot
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -78,16 +78,16 @@ $ node bot.js
 ```
 Due to Whatsapp bot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, yazeens_bot executives do not accept responsibility.
-By establishing the yazeens_bot, you are deemed to have accepted these responsibilities.
+Absolutely, Monuzz_bot executives do not accept responsibility.
+By establishing the Monuzz_bot, you are deemed to have accepted these responsibilities.
 ```
 
 ## Developers
   <div align="center">
     
-  [![yazeen-chunda](https://github.com/yazeen-chunda.png?size=100)](https://github.com/yazeen-chunda) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
+  [![Anandh-kl35](https://github.com/Anandh-kl35.png?size=100)](https://github.com/Anandh-kl35) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
 ----|----|----|----
-[Ameer Suhail](https://github.com/yazeen-chunda) | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
+[Ameer Suhail](https://github.com/Anandh-kl35) | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
 Base, Bug Fixes, Modules | Modifiying as public | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
